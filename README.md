@@ -1,6 +1,6 @@
 Thanks for viewing this project!
 
-Using the data from the csv file, I used MySQL to import that data and sort it using SQL queries to answer these data analysis questions:
+Using the data from the CSV file, I used MySQL to import that data and sort it using SQL queries to answer these data analysis questions:
 
 - What is the price distribution based on the number of bedrooms?
 - How many bathrooms are the most common?
@@ -10,4 +10,4 @@ Using the data from the csv file, I used MySQL to import that data and sort it u
 - How does the number of stories affect the average area and average price?
 - How much does parking increase a house’s price on average?
 
-  Afterwards, I imported the SQL database into PowerBI and visualized the data into a dashboard.
+Afterward, I imported the SQL database into PowerBI and visualized the data in a dashboard.
